@@ -64,7 +64,7 @@
 					"contactNetwork": "network2",
 					"contactNo": "number2"
 				}],
-				"identification": [{
+				"identifications": [{
 					"createdBy": "created",
 					"createdDate": "2018-03-03 00:33:01.0268",
 					"lastUpdatedBy": "cretaed",
@@ -74,6 +74,17 @@
 					"identificationID": 1,
 					"identificationType": "type",
 					"identificationNo": "number"
+				},
+				{
+					"createdBy": "created",
+					"createdDate": "2018-03-03 00:33:01.0268",
+					"lastUpdatedBy": "cretaed",
+					"lastUpdatedDate": "2018-03-03 00:33:01.0268",
+					"statusCode": "A",
+					"verNo": 1,
+					"identificationID": 2,
+					"identificationType": "type2",
+					"identificationNo": "number2"
 				}],
 				"addressPermanent": {
 					"createdBy": "created",
